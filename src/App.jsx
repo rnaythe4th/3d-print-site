@@ -1,8 +1,8 @@
 import { useState } from "react";
 import "./App.scss";
-import FileUploader from "./components/FileUploader/FileUploader";
-import ResultCalculation from "./components/ResultCalculation/ResultCalculation";
-import { uploadFileToServer } from "./api/server";
+//import FileUploader from "./components/FileUploader/FileUploader";
+//import ResultCalculation from "./components/ResultCalculation/ResultCalculation";
+//import { uploadFileToServer } from "./api/server";
 import PriceCalculator from "./components/PriceCalculator/PriceCalculator";
 
 function App() {

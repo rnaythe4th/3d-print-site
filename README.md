@@ -1,8 +1,23 @@
-# React + Vite
+## 3D print site (React) **прототип*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Часть пет-проекта — сайт по оказанию услуг 3D-печати.
 
-Currently, two official plugins are available:
+Стек: React, JavaScript, SASS, Axios
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+iOS-клиент и Node.JS-сервер:
+
+[![GitHub](https://img.shields.io/badge/GitHub-3d_print_client_(iOS)-blue?logo=github)](https://github.com/rnaythe4th/3d-print-client-ios)
+[![GitHub](https://img.shields.io/badge/GitHub-CuraEngine_(Docker)-blue?logo=github)](https://github.com/rnaythe4th/CuraEngine_docker)
+
+
+#### Описание
+Сайт для расчёта стоимости печати загруженной 3D-модели.
+
+Функционал:
+
+- Выбор 3D-модели из файла
+- Загрузка модели на сервер
+- Получение ответа от сервера и отображение стоимости печати загруженной модели
+
+<img src="Screenshots/Screenshot1.png" width="600px">
+    
